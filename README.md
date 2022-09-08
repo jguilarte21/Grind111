@@ -7,7 +7,8 @@ https://www.techinterviewhandbook.org/grind75?weeks=6&hours=16
 
 
 
-Week One -
+Week 9/6 - 
 
 Two Sum
-Valid Parantheses
+Valid Parenthesis
+Merge Two Sorted Lists
